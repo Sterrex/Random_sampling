@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Random sampling
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Regina Wiepkje Myo
+    family-names: Karssiens
+    email: reggiekarssiens@gmail.com
+    name-particle: Reggie
+    affiliation: Vrije Universiteit Earth & Climate
+repository-code: >-
+  https://github.com/reggiekarssiens-ux/Random_sampling/tree/main
+url: 'https://github.com/reggiekarssiens-ux'
+license: GPL-3.0
+version: '1'
+date-released: '2026-01-29'
