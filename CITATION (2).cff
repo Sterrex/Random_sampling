@@ -8,14 +8,13 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Regina Wiepkje Myo
+  - given-names: Reggie
     family-names: Karssiens
-    email: reggiekarssiens@gmail.com
     name-particle: Reggie
     affiliation: Vrije Universiteit Earth & Climate
 repository-code: >-
-  https://github.com/reggiekarssiens-ux/Random_sampling/tree/main
-url: 'https://github.com/reggiekarssiens-ux'
+  https://github.com/Sterrex/Random_sampling/tree/main
+url: 'https://github.com/Sterrex'
 license: GPL-3.0
 version: '1'
 date-released: '2026-01-29'
